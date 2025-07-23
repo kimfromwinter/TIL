@@ -20,6 +20,7 @@ Today I Learn.
 ### Algorithm
 
 ### AI/ML
+- [RAG와 Cohere Rerank](https://github.com/kimfromwinter/TIL/blob/main/AIML/RAG%EC%99%80%20Cohere%20Rerank.md) 
 
 ### Seminar & Conference
 
