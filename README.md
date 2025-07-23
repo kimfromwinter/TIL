@@ -19,7 +19,7 @@ Today I Learn.
 ## 분류
 ### Algorithm
 
-###[AI/ML](https://github.com/kimfromwinter/TIL/blob/main/Algorithm)
+###AI/ML
 
 ### Seminar & Conference
 
