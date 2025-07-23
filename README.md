@@ -7,6 +7,7 @@ Today I Learn.
 - 기존에 배운 코스 내용 중 잘 기억나지 않는 내용을 리뷰하거나, 책이나 강의 등의 매체를 통해 새롭게 배운 내용을 정리합니다.
 
 [namjunemy](https://github.com/namjunemy/TIL?tab=readme-ov-file) 님의 Github TIL 페이지를 보고 좋은 형식이라는 생각이 들어 만들게 됐습니다. 😉
+<br>
 
 ## 작성 규칙
 ---
