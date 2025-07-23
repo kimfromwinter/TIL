@@ -17,7 +17,6 @@ Today I Learn.
 - 더 많은 공유를 원하는 기록은 블로그에 포스팅 한다.
 
 ## 분류
----
 ### Algorithm
 
 ### AI/ML
