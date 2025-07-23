@@ -6,7 +6,7 @@ Today I Learn.
 - 계속해서 새로운 지식을 습득하지만 그만큼 잊게 되는 내용도 많아서, 차곡차곡 쌓아두고자 만든 레포지토리입니다.
 - 기존에 배운 코스 내용 중 잘 기억나지 않는 내용을 리뷰하거나, 책이나 강의 등의 매체를 통해 새롭게 배운 내용을 정리합니다.
 
-[namjunemy](https://github.com/namjunemy/TIL?tab=readme-ov-file) 님의 Github TIL 페이지를 보고 좋은 형식이라는 생각이 들어 만들게 됐습니다. 😉
+[namjunemy](https://github.com/namjunemy/TIL?tab=readme-ov-file) 님의 Github TIL 페이지를 보고 좋은 방식이라는 생각이 들어 대부분의 형식을 따라 만들게 됐습니다. 감사합니다. 😉
 <br />
 <br />
 
